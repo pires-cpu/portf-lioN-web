@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+header {
+   
+
+
+
+    
+
+    .titulo {
+        width: 200px;
+        padding: 10px;
+        border: 5px;
+        margin-top: 65px;
+        margin-right: 300px;
+        margin-left: 100px;
+        color: red;
+        font-style: italic;
+        background-color: black;
+    }
+
+    li {
+        margin-top: 67px;
+        margin-left: 30px;
+        flex-direction: row;
+        display: flex;
+        justify-content: space-between;
+        background-color: black;
+
+      
+    }
+
+
+
+}
+
+.caixa1 {
+    border: 0;
+    border-style: solid;
+    padding-right: 10px;
+    margin: 1px;
+    flex-direction: row;
+    display: flex;
+    width: 1363px;
+    border-radius: 15px;
+    background-color: black;
+
+    }
+
+.gits {
+
+    border: 0;
+    border-style: solid;
+    border-radius: 3;
+
+        flex-direction: center;
+        display: flex;
+        padding: 30px;
+        background-color: black;
+        padding-left: 80px;
+
+    }
+
+    
+    img{
+        display: flex;
+justify-content: center;
+        width: 50px;
+        height: 50px;
+    }
+    
+    .logo{
+        width: 200px;
+        height: 200px;  
+        border-radius: 15px;
+    }
+
+    body{
+        background: linear-gradient(red, rgb(255, 102, 0),rgb(255, 238, 0), rgb(255, 255, 110), rgb(255, 255, 255));
+    }
+
+    .sobret{
+        background-color: black;
+        color: yellow;
+        border-radius: 15px;
+    }
+
+    .proj{
+        color: orange;
+        background-color: black;
+        padding: 15px;
+        
+    }
+
+    .contato{
+        background-color: black;
+        color: white;
+        flex-direction: row;
+        display: flex;
+        border-radius: 15px;
+    }
+
+    
